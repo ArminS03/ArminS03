@@ -1,9 +1,7 @@
 # 💫 About Me:
-I'm a Computer Engineering student at the Sharif University of Technology. I'm interested in topics related to AI and RL specially piques my interest. 
+I'm a Computer Engineering student at the Sharif University of Technology. I'm interested in topics related to Computer Vision, Natural Language Processing, and Foundation Models. 
 
-🔭 I’m currently working a RL and a Image-Text Retrival projects.
-
-🌱 I’m currently learning Deep Learning, NLP, Reinforcement Learning.
+🔭 I’m currently working on Computer Vision and Foundation Models.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-saghafian/) 
