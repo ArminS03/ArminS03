@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Computer Engineering student at the Sharif University of Technology. I'm interested in topics related to Computer Vision, Natural Language Processing, and Foundation Models. 
+I'm a Computer Engineering student at the Sharif University of Technology. I'm interested in topics related to Image Processing. 
 
 🔭 I’m currently working on Foundation Models.
 
